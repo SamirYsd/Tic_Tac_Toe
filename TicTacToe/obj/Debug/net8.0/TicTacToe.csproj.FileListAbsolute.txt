@@ -1,0 +1,14 @@
+/Users/samiryounuszada/Tic_Tac_Toe/TicTacToe/bin/Debug/net8.0/TicTacToe
+/Users/samiryounuszada/Tic_Tac_Toe/TicTacToe/bin/Debug/net8.0/TicTacToe.deps.json
+/Users/samiryounuszada/Tic_Tac_Toe/TicTacToe/bin/Debug/net8.0/TicTacToe.runtimeconfig.json
+/Users/samiryounuszada/Tic_Tac_Toe/TicTacToe/bin/Debug/net8.0/TicTacToe.dll
+/Users/samiryounuszada/Tic_Tac_Toe/TicTacToe/bin/Debug/net8.0/TicTacToe.pdb
+/Users/samiryounuszada/Tic_Tac_Toe/TicTacToe/obj/Debug/net8.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samiryounuszada/Tic_Tac_Toe/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/samiryounuszada/Tic_Tac_Toe/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfo.cs
+/Users/samiryounuszada/Tic_Tac_Toe/TicTacToe/obj/Debug/net8.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/samiryounuszada/Tic_Tac_Toe/TicTacToe/obj/Debug/net8.0/TicTacToe.dll
+/Users/samiryounuszada/Tic_Tac_Toe/TicTacToe/obj/Debug/net8.0/refint/TicTacToe.dll
+/Users/samiryounuszada/Tic_Tac_Toe/TicTacToe/obj/Debug/net8.0/TicTacToe.pdb
+/Users/samiryounuszada/Tic_Tac_Toe/TicTacToe/obj/Debug/net8.0/TicTacToe.genruntimeconfig.cache
+/Users/samiryounuszada/Tic_Tac_Toe/TicTacToe/obj/Debug/net8.0/ref/TicTacToe.dll
